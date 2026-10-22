@@ -1,8 +1,6 @@
 # Hi there, I'm Dean Matthew C. Flores 👋 
 ### **Entry-Level Data Analyst | Data Science & Database Administration Candidate**
 
-[<img src="https://komarev.com/ghpvc/?username=Flashters&style=flat-square&color=blue" alt="Profile Views" />]
-
 ---
 
 ### 👨‍💻 About Me

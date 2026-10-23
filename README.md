@@ -29,7 +29,7 @@
 * Wrote advanced SQL queries (Window functions, aggregates) in SQLite to analyze revenue trends and top product categories.
 * Developed a one-page Power BI dashboard utilizing custom DAX measures for revenue, order volume, AOV, and delivery performance.
 
-#### 📉 Customer Churn Prediction *(Python, scikit-learn)*
+#### 📉 [Customer Churn Prediction](https://github.com/Flashters/customer-churn-prediction) *(Python, scikit-learn)*
 * Built a leakage-safe machine learning pipeline (imputation, scaling, encoding) on 7,000+ telecom customer records.
 * Evaluated and compared Logistic Regression and Random Forest models using stratified 5-fold cross-validation (ROC-AUC).
 

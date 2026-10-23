@@ -37,9 +37,13 @@
 * Built an automated ETL workflow extracting hourly weather data for five Philippine cities via REST API with idempotent database upserts.
 * Automated pipeline execution via GitHub Actions (every 6 hours) and deployed an interactive Streamlit dashboard.
 
-#### 📱 Handee Mobile Application *(Spring Boot, MySQL)* — *Thesis Project*
+#### 📱 [Handee Mobile Application](https://github.com/amarpajarito/handee-mobile.git) *(Spring Boot, MySQL)* — *Thesis Project*
 * Designed a normalized MySQL database for a location-based service-matching platform covering provider verification, job postings, payments, and ratings.
 * Configured SQL-based CRUD operations through Spring Boot REST APIs and validated cross-system data consistency.
+* A separated admin dashboard is also made to monitor both users and providers.
+
+#### 📱 [Handee Admin Application](https://github.com/amarpajarito/handee-admin.git) *(Spring Boot, MySQL)* — *Thesis Project*
+* A separated admin dashboard is also made to monitor both users and providers. 
 
 ---
 

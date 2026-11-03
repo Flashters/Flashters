@@ -113,10 +113,6 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flashters&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Dean's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashters&layout=compact&theme=radial&hide_border=true&hide=html,css" alt="Top Languages" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flashters&theme=radial&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flashters&show_icons=true&theme=radial&hide_border=true" alt="Dean's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashters&layout=compact&theme=radial&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
 </p>

@@ -116,7 +116,3 @@
   <img src="https://github-stats-extended.vercel.app/api?username=Flashters&show_icons=true&theme=synthwave" alt="Flashters's GitHub Stats" width="49.5%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Flashters&layout=compact&theme=synthwave" alt="Most Used Languages" width="49.5%" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Flashters&theme=synthwave" alt="GitHub Streak Graph" width="100%" />
-</p>

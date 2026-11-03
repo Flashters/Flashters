@@ -4,10 +4,10 @@
 ---
 
 ### 👨‍💻 About Me
-* **Education:** B.S. in Information Technology (Enterprise Data Management) — **Mapua University** (2023–2026)
-* **Certification:** TESDA Data Analytics Level III | Oracle Data Platform 2025 Certified Foundations Associate
-* **Experience:** Data & QA Intern at Bridge360, Inc. | Data Analytics Intern at ROC.ph
-* **Core Focus:** Turning raw data into clean models, automated pipelines, and actionable business insights using Python, SQL, and Power BI.
+- **Education:** B.S. in Information Technology (Enterprise Data Management) — **Mapua University** (2023–2026)
+- **Certification:** TESDA Data Analytics Level III | Oracle Data Platform 2025 Certified Foundations Associate
+- **Experience:** Data & QA Intern at Bridge360, Inc. | Data Analytics Intern at ROC.ph
+- **Core Focus:** Turning raw data into clean models, automated pipelines, and actionable business insights using Python, SQL, and Power BI.
 
 ---
 
@@ -54,49 +54,56 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Meta_Business_Suite-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Suite" />
 </p>
-### 🛠️ Technical Skills
-
-* **Data Analysis & Science:** Python (`pandas`, `scikit-learn`), Exploratory Data Analysis, Data Cleaning & Validation, Feature Engineering, Classification Models
-* **SQL & Databases:** SQL, Oracle SQL, MySQL, SQLite, Window Functions, Database Design, Normalization, Query Optimization
-* **ETL & Automation:** REST APIs, Automated ETL Pipelines, GitHub Actions (CI/CD), Data-Quality Checks, Unit Testing
-* **BI & Reporting:** Power BI (DAX measures, dashboards), Microsoft Excel, Google Sheets, Streamlit, Jupyter Notebook
-* **Tools & Web Tech:** Git, GitHub, MySQL Workbench, Oracle APEX, Flask, Spring Boot, HTML, CSS, JavaScript
-* **Quality Assurance:** Software QA Testing, Defect Reporting, Data Consistency Verification
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 📊 [E-commerce Sales Analysis](https://github.com/Flashters/olist-sales-analysis) *(Python, SQL, Power BI)*
-* Cleaned and integrated 100K+ orders from the Olist dataset into an analysis-ready fact table using Python (`pandas`) with automated data-quality checks.
-* Wrote advanced SQL queries (Window functions, aggregates) in SQLite to analyze revenue trends and top product categories.
-* Developed a one-page Power BI dashboard utilizing custom DAX measures for revenue, order volume, AOV, and delivery performance.
+- Cleaned and integrated 100K+ orders from the Olist dataset into an analysis-ready fact table using Python (`pandas`) with automated data-quality checks.
+- Wrote advanced SQL queries (Window functions, aggregates) in SQLite to analyze revenue trends and top product categories.
+- Developed a one-page Power BI dashboard utilizing custom DAX measures for revenue, order volume, AOV, and delivery performance.
 
 #### 📉 [Customer Churn Prediction](https://github.com/Flashters/customer-churn-prediction) *(Python, scikit-learn)*
-* Built a leakage-safe machine learning pipeline (imputation, scaling, encoding) on 7,000+ telecom customer records.
-* Evaluated and compared Logistic Regression and Random Forest models using stratified 5-fold cross-validation (ROC-AUC).
+- Built a leakage-safe machine learning pipeline (imputation, scaling, encoding) on 7,000+ telecom customer records.
+- Evaluated and compared Logistic Regression and Random Forest models using stratified 5-fold cross-validation (ROC-AUC).
 
 #### ⛅ [Automated Weather ETL Pipeline](https://github.com/Flashters/ph-weather-pipeline) *(Python, SQLite, GitHub Actions, Streamlit)*
-* Built an automated ETL workflow extracting hourly weather data for five Philippine cities via REST API with idempotent database upserts.
-* Automated pipeline execution via GitHub Actions (every 6 hours) and deployed an interactive Streamlit dashboard.
+- Built an automated ETL workflow extracting hourly weather data for five Philippine cities via REST API with idempotent database upserts.
+- Automated pipeline execution via GitHub Actions (every 6 hours) and deployed an interactive Streamlit dashboard.
 
 #### 📱 [Handee Mobile Application](https://github.com/amarpajarito/handee-mobile.git) *(Spring Boot, MySQL)* — *Thesis Project*
-* Designed a normalized MySQL database for a location-based service-matching platform covering provider verification, job postings, payments, and ratings.
-* Configured SQL-based CRUD operations through Spring Boot REST APIs and validated cross-system data consistency.
-* A separated admin dashboard is also made to monitor both users and providers.
+- Designed a normalized MySQL database for a location-based service-matching platform covering provider verification, job postings, payments, and ratings.
+- Configured SQL-based CRUD operations through Spring Boot REST APIs and validated cross-system data consistency.
 
 #### 📱 [Handee Admin Application](https://github.com/amarpajarito/handee-admin.git) *(Spring Boot, MySQL)* — *Thesis Project*
-* A separated admin dashboard is also made to monitor both users and providers. 
+- Developed a separate administrative management dashboard to monitor system activity, audit user metrics, and oversee provider registrations.
+
+---
+
+### 🌟 Contributed Projects & Collaborative Work
+
+#### 🌤️ [WeatherWise](https://github.com/aynaynayn/WeatherWise) *(React, JavaScript, HTML5, CSS3, Tailwind CSS)*
+- Developed interactive frontend weather dashboard views and stock adjustment control panels.
+- Integrated weather metric visualizers into the inventory forecast interface.
+
+#### 🗄️ [EDM Oracle Project - EDM 2](https://github.com/BiancaEllaOcampo/EDMOracleProject) *(Oracle SQL, Oracle APEX, ER Diagramming)*
+- Built relational database schema constraints and validated primary/foreign key mappings.
+- Implemented data integrity checks to ensure relational consistency across database tables.
+
+#### ⚙️ [CRUD App](https://github.com/apjakilan/CRUDAPP_GRP2) *(Java, Spring Boot, MySQL, Git)*
+- Designed backend REST API routes and database transaction endpoints for record operations.
+- Managed server-side data routing and enforced Git branch protection workflows during development.
 
 ---
 
 ### 🏆 Certifications
-* **Oracle Data Platform 2025 Certified Foundations Associate** — Oracle
-* **Comprehensive Tuning and Optimization for Oracle Databases** — Coursera / Packt
-* **Advanced Oracle Monitoring and Tuning Techniques** — Coursera / Packt
+- **Oracle Data Platform 2025 Certified Foundations Associate** — Oracle
+- **Comprehensive Tuning and Optimization for Oracle Databases** — Coursera / Packt
+- **Advanced Oracle Monitoring and Tuning Techniques** — Coursera / Packt
 
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/dean-matthew-cruz-flores](https://www.linkedin.com/in/dean-matthew-cruz-flores)
-* **Email:** deanmatthew.cruz.flores@gmail.com
+- **LinkedIn:** [linkedin.com/in/dean-matthew-cruz-flores](https://www.linkedin.com/in/dean-matthew-cruz-flores)
+- **Email:** deanmatthew.cruz.flores@gmail.com

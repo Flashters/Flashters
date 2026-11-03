@@ -76,7 +76,7 @@
 * Built a leakage-safe machine learning pipeline (imputation, scaling, encoding) on 7,000+ telecom customer records.
 * Evaluated and compared Logistic Regression and Random Forest models using stratified 5-fold cross-validation (ROC-AUC).
 
-#### ⛅ Automated Weather ETL Pipeline *(Python, SQLite, GitHub Actions, Streamlit)*
+#### ⛅ [Automated Weather ETL Pipeline](https://github.com/Flashters/ph-weather-pipeline) *(Python, SQLite, GitHub Actions, Streamlit)*
 * Built an automated ETL workflow extracting hourly weather data for five Philippine cities via REST API with idempotent database upserts.
 * Automated pipeline execution via GitHub Actions (every 6 hours) and deployed an interactive Streamlit dashboard.
 

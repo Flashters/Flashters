@@ -110,13 +110,11 @@
 
 ---
 
-### 📊 GitHub Stats & Achievements
+### 📊 GitHub Activity & Tech Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flashters&show_icons=true&theme=synthwave" alt="Flashters's GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashters&layout=compact&theme=synthwave" alt="Most Used Languages" width="49.5%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flashters&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://img.shields.io/badge/GitHub-Flashters-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/Public_Repos-3%20Active-success?style=for-the-badge&logo=git&logoColor=white" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Core_Stack-Python_%7C_SQL_%7C_Java-orange?style=for-the-badge" alt="Core Stack" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>

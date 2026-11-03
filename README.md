@@ -110,9 +110,13 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flashters&show_icons=true&theme=radial&hide_border=true" alt="Dean's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashters&layout=compact&theme=radial&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flashters&show_icons=true&theme=synthwave" alt="Flashters's GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashters&layout=compact&theme=synthwave" alt="Most Used Languages" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flashters&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
 </p>

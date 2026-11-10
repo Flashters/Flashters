@@ -45,6 +45,10 @@
 
 #### **Frameworks, Tools & Web Tech**
 <p>
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -58,6 +62,12 @@
 ---
 
 ### 🚀 Featured Projects
+
+#### ⚡ [Developer Portfolio & CLI Terminal Emulator](https://flashters-portfolio.vercel.app/) *(React 19, Vite, Tailwind CSS 4, Vercel)*
+- Engineered a Neo-Brutalist developer portfolio using React 19 and custom hash-based routing for dual-view project exploration.
+- Built an in-browser interactive terminal featuring custom shell commands, command-history recall, Tab auto-completion, dynamic ID prefix-matching, and root (`sudo`) privilege escalation modes.
+- Integrated Web3Forms API to process direct recruiter contact and automated email notifications directly from terminal commands (`sudo hire`).
+- Optimized asset loading and routing state handling to reliably embed interactive project showcases and static PDF resume viewers.
 
 #### 📊 [E-commerce Sales Analysis](https://github.com/Flashters/olist-sales-analysis) *(Python, SQL, Power BI)*
 - Cleaned and integrated 100K+ orders from the Olist dataset into an analysis-ready fact table using Python (`pandas`) with automated data-quality checks.
